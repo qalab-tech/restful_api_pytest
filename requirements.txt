@@ -1,4 +1,4 @@
 pytest
 pytest-html
 pytest-xdist
-PyYAML
+pyyaml
